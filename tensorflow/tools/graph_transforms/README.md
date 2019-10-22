@@ -43,6 +43,9 @@
     *   [Function Libraries](#function-libraries)
     *   [Registering](#registering)
 
+## Install
+tensorflow 1.5 bazel 0.17.2
+
 ## Introduction
 
 When you have finished training a model and want to deploy it in production,
